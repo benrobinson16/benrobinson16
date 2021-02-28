@@ -5,10 +5,10 @@ I'm a student learning software development for Apple's platforms, the web and t
 ### Technologies
 
 - **Swift** - My first programming language. I've used this to build iOS, macOS, tvOS and watchOS apps.
-- **SwiftUI** - My preferred UI framework for Apple's platforms.
+  - **SwiftUI** - My preferred UI framework for Apple's platforms.
 - **JavaScript** - My preferred language for the web. Used in React websites and Node.js servers.
-- **React** - Frontend framework for my website projects. Learning its use on mobile (React Native) and for dynamic websites (Next.js).
-- **Node.js** - Currently the environment I use on the web. Great for simple Express servers.
+  - **React** - Frontend framework for my website projects. Learning its use on mobile (React Native) and for dynamic websites (Next.js).
+  - **Node.js** - Currently the environment I use on the web. Great for simple Express servers.
 - **C#** - Used for school projects.
 - **Python** - I've used Python for personal automation and machine learning (e.g. Minimax, NLP, Turicreate and more).
 - **Go** - My newest programming language. I'm intent on using this for concurrent servers built to handle greater traffic.
