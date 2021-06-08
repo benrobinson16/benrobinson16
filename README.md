@@ -1,8 +1,6 @@
 ## Hello, world! 👋
 
-I'm a student learning software development for Apple's platforms, the web and the server. 
-
-I'm also a WWDC21 Swift Student Challenge winner! 🎉
+I'm a student learning software development for Apple's platforms, the web and the server. WWDC21 Swift Student Challenge winner. Excited about code, tech and more code!
 
 ### Technologies
 
