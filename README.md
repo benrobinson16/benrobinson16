@@ -2,6 +2,8 @@
 
 I'm a student learning software development for Apple's platforms, the web and the server. WWDC21 Swift Student Challenge winner. Excited about code, tech and more code!
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8850a0b7-115d-4f5a-aac3-fd3dff378a5e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Technologies
 
 - **Swift** - My first programming language. I've used this to build iOS, macOS, tvOS and watchOS apps.
