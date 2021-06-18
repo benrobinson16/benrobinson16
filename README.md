@@ -1,8 +1,8 @@
 ## Hello, world! 👋
 
-WWDC21 Swift Student Challenge winner. AWS Certified Cloud Practitioner.
-
 I'm a student learning software development for Apple's platforms, the web and the server. Excited about code, tech and more code!
+
+WWDC21 Swift Student Challenge winner. AWS Certified Cloud Practitioner.
 
 ### Technologies
 
