@@ -7,13 +7,10 @@ I'm a student learning software development for Apple's platforms, the web and t
 
 ### Technologies
 
-- **Swift** - My first programming language. I've used this to build iOS, macOS, tvOS and watchOS apps.
-  - **SwiftUI** - My preferred UI framework for Apple's platforms.
-- **JavaScript** - My preferred language for the web.
-  - **React** - Frontend framework for my website projects. Learning its use on mobile (React Native) and for dynamic websites (Next.js).
-  - **Node.js** - Currently the environment I use for REST APIs (with Express.js).
+- **Swift** - My first programming language. I've used this to build iOS, macOS, tvOS and watchOS apps leveraging frameworks such as **SwiftUI**, **UIKit**, **CoreML**, **Combine** and more.
+- **JavaScript** - My preferred language for front-end and (sometimes) also back-end development. Experience using **React**, **Node.js**, **Express** and **ChakraUI**.
 - **C#** - Used for school projects.
-- **Python** - I've used Python for personal automation and machine learning (e.g. Minimax, NLP, Turicreate and more).
+- **Python** - I've used Python for personal automation and machine learning (including **Tensorflow**).
 
 ### My Projects
 
