@@ -18,5 +18,5 @@ I'm a student learning software development for Apple's platforms, the web and t
 - [**Mafia: The Game**](https://mafiathegame.benrobinson.dev) is a multiplayer game inspired by the classic mafia game played in-person by a group of people. For the server, I deployed a Node.js express API to heroku. The website was built using React and Netlify. For the iOS and tvOS apps, I used Swift (this time using frameworks such as Combine and SwiftUI).
 - [**Where Can I Travel?**](https://wherecanitravel.tech) is a crowd-sourcing platform for global travel restrictions. Find out where you may be able to travel without self-isolation and submit informations about travelling into your country. Build using JavaScript, React and Google Cloud. 
   - 2nd overall in MLH's Hack Around the World. Winner of best domain name.
-- Run/walk is an independent watchOS to help runners with interval training. Currently in development.
+- Run/walk is an independent watchOS app to help runners with interval training. Currently in development.
 - More to come in the near future! 😉
