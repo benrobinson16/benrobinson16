@@ -2,14 +2,14 @@
 
 I'm a student learning software development for Apple's platforms, the web and the server.
 
-- WWDC21 Swift Student Challenge winner
+- Two time Apple Swift Student Challenge winner
 - AWS Certified Cloud Practitioner
 
 ### Technologies
 
 - **Swift** - My first programming language. I've used this to build iOS, macOS, tvOS and watchOS apps leveraging frameworks such as *SwiftUI*, *UIKit*, *CoreML*, *Combine* and more.
 - **JavaScript** - My preferred language for front-end and (sometimes) also back-end development. Experience using *React*, *Node.js*, *Express* and *ChakraUI*.
-- **C#** - Used for school projects.
+- **C#** - Used for school projects and my job.
 - **Python** - I've used Python for personal automation and machine learning (including *Tensorflow*).
 
 ### My Projects
