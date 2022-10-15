@@ -19,4 +19,5 @@ I'm a student learning software development for Apple's platforms, the web and t
 - [**Where Can I Travel?**](https://wherecanitravel.benrobinson.dev) is a crowd-sourcing platform for global travel restrictions. Find out where you may be able to travel without self-isolation and submit informations about travelling into your country. Build using JavaScript, React and Google Cloud. 
   - 2nd overall in MLH's Hack Around the World. Winner of best domain name.
 - [**Run/walk**](https://runwalk.benrobinson.dev) is an independent watchOS app to help runners with interval training. Currently in development.
+- Swift packages including [SettingsBundleBuilder](https://github.com/benrobinson16/SettingsBundleBuilder) allowing devs to create iOS settings bundles in a SwiftUI style, and [SplashKit](https://github.com/benrobinson16/SplashKit) which streamlines the process of making Apple-style splash screens.
 - More to come in the near future! 😉
