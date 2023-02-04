@@ -11,6 +11,7 @@ I'm a student learning software development for Apple's platforms, the web and t
 - **JavaScript** - My preferred language for front-end and (sometimes) also back-end development. Experience using *React*, *Node.js*, *Express* and *ChakraUI*.
 - **C#** - Used for school projects and my job.
 - **Python** - I've used Python for personal automation and machine learning (including *Tensorflow*).
+- **C++** - For competitive programming and the British Informatics Olympiad.
 
 ### My Projects
 
@@ -18,6 +19,6 @@ I'm a student learning software development for Apple's platforms, the web and t
 - [**Mafia: The Game**](https://mafiathegame.benrobinson.dev) is a multiplayer game inspired by the classic mafia game played in-person by a group of people. For the server, I deployed a Node.js express API to heroku. The website was built using React and Netlify. For the iOS and tvOS apps, I used Swift (this time using frameworks such as Combine and SwiftUI).
 - [**Where Can I Travel?**](https://wherecanitravel.benrobinson.dev) is a crowd-sourcing platform for global travel restrictions. Find out where you may be able to travel without self-isolation and submit informations about travelling into your country. Build using JavaScript, React and Google Cloud. 
   - 2nd overall in MLH's Hack Around the World. Winner of best domain name.
-- [**Run/walk**](https://runwalk.benrobinson.dev) is an independent watchOS app to help runners with interval training. Currently in development.
+- [**Run/walk**](https://runwalk.benrobinson.dev) is an independent watchOS app to help runners with interval training.
 - Swift packages including [SettingsBundleBuilder](https://github.com/benrobinson16/SettingsBundleBuilder) allowing devs to create iOS settings bundles in a SwiftUI style, and [SplashKit](https://github.com/benrobinson16/SplashKit) which streamlines the process of making Apple-style splash screens.
 - More to come in the near future! 😉
